@@ -11,7 +11,7 @@ function Section() {
                 <h1 className="hero-content__heading mb-25 wow fadeInUp animated" data-wow-duration="500ms"
                   data-wow-delay="200ms">
                   Creative
-                  <img src="assets/img/icons/pie-icon.svg" alt/> Digital
+                  <img src="assets/img/icons/pie-icon.svg" alt=""/> Digital
                   Agency for Mindful New Brands!
                 </h1>
                 <p className="hero-content__text mb-45 wow fadeInUp animated" data-wow-duration="500ms"
@@ -738,7 +738,7 @@ function Section() {
                   suspendisse nulla aliquam. Risus rutrum tellus eget as
                   ultrices pretium ni amet facilisis
                 </p>
-                <a href="#" className="btn">See All Clients</a>
+                <a href="index.html" className="btn">See All Clients</a>
               </div>
             </div>
             <div className="col-lg-7 mb-30">

@@ -25,7 +25,7 @@ function Header() {
                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                   <ul class="navigation">
                     <li class="menu-item-has-children">
-                      <a href="#" class="active-menu">
+                      <a href="index.html" class="active-menu">
                         Home
                       </a>
                       <ul class="sub-menu">
@@ -65,7 +65,7 @@ function Header() {
                       </ul>
                     </li>
                     <li class="menu-item-has-children">
-                      <a href="#">Pages </a>
+                      <a href="index.html">Pages </a>
                       <ul class="sub-menu">
                         <li>
                           <a href="about.html">
@@ -81,19 +81,19 @@ function Header() {
                           </a>
                         </li>
                         <li>
-                          <a href="price.html">
+                          <a href="index.html">
                             Price
                           </a>
                         </li>
                         <li>
-                          <a href="404.html">
+                          <a href="index.html">
                             404 Error
                           </a>
                         </li>
                       </ul>
                     </li>
                     <li class="menu-item-has-children">
-                      <a href="#"> Projects </a>
+                      <a href="index.html"> Projects </a>
                       <ul class="sub-menu">
                         <li>
                           <a href="case-study.html">
@@ -118,7 +118,7 @@ function Header() {
                       </ul>
                     </li>
                     <li class="menu-item-has-children">
-                      <a href="#">Blog </a>
+                      <a href="index.html">Blog </a>
                       <ul class="sub-menu">
                         <li>
                           <a href="blog-sidebar.html">
@@ -148,7 +148,7 @@ function Header() {
                       </ul>
                     </li>
                     <li>
-                      <a href="contact.html">
+                      <a href="index.html">
                         Contact
                       </a>
                     </li>
@@ -157,18 +157,18 @@ function Header() {
                 <div class="tgmenu__action d-none d-md-block">
                   <ul class="list-wrap">
                     <li class="header-search">
-                      <a href="#" class="search search--button">
+                      <a href="index.html" class="search search--button">
                         <img src={searchicon} alt="Search"/>
                       </a>
                     </li>
                     <li class="header-btn">
-                      <a href="about.html" class="btn">Let's Talk</a>
+                      <a href="index.html" class="btn">Let's Talk</a>
                     </li>
                   </ul>
                 </div>
               </nav>
             </div>
-            <form action="#" class="search-block">
+            <form action="index.html" class="search-block">
               <div class="search-block__container">
                 <span id="close-search" class="search-block__close">
                   <i class="fa-solid fa-xmark"></i>
@@ -182,10 +182,10 @@ function Header() {
               <nav class="tgmobile__menu-box">
                 <div class="close-btn"><i class="flaticon-close-1"></i></div>
                 <div class="nav-logo">
-                  <a href="index-2.html"><img src={logo} alt="Logo"/></a>
+                  <a href="index.html"><img src={logo} alt="Logo"/></a>
                 </div>
                 <div class="tgmobile__search">
-                  <form action="#">
+                  <form action="index.html">
                     <input type="text" placeholder="Search here..."/>
                     <button type="submit">
                       <i class="fas fa-search"></i>
